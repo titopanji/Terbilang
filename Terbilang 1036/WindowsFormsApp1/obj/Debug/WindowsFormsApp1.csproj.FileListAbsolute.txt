@@ -1,0 +1,26 @@
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\WindowsFormsApp1\bin\Debug\LibraryTerbilang1.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\WindowsFormsApp1\bin\Debug\LibraryTerbilang1.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Pemrograman Lanjut\Terbilang\Terbilang\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Pemrograman Lanjut\Terbilang\Terbilang\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Pemrograman Lanjut\Terbilang\Terbilang\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Pemrograman Lanjut\Terbilang\Terbilang\WindowsFormsApp1\bin\Debug\LibraryTerbilang1.dll
+D:\Pemrograman Lanjut\Terbilang\Terbilang\WindowsFormsApp1\bin\Debug\LibraryTerbilang1.pdb
+D:\Pemrograman Lanjut\Terbilang\Terbilang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Pemrograman Lanjut\Terbilang\Terbilang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Pemrograman Lanjut\Terbilang\Terbilang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Pemrograman Lanjut\Terbilang\Terbilang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Pemrograman Lanjut\Terbilang\Terbilang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Pemrograman Lanjut\Terbilang\Terbilang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Pemrograman Lanjut\Terbilang\Terbilang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Pemrograman Lanjut\Terbilang\Terbilang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,2 @@
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\LibraryTerbilang\obj\Debug\LibraryTerbilang.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\LibraryTerbilang\obj\Debug\LibraryTerbilang.csproj.CoreCompileInputs.cache
